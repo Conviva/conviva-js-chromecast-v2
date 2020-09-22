@@ -8,6 +8,11 @@ The Conviva JavaScript Chromecast V2 module module is built on top of <a href="h
 <script type="text/javascript" src="<PATH>/conviva-core-sdk.js"></script>
 <script type="text/javascript" src="<PATH>/conviva-chromecast-v2module.js"></script>
 ```
+## Supported Framework Versions
+Receiver SDK version 2.0.0 with external Media Player Library version 1.0.0
+
+## Supported Devices
+Chromecast 1, Chromecast 2 and Chromecast Ultra
 
 ## Note:
 * Refer https://community.conviva.com/ for integration guidelines.
