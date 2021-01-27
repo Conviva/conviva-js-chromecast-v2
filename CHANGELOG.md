@@ -1,6 +1,9 @@
 
 # Changelog
 
+## 4.0.8 (27/JAN/2021)
+* Supports Average Framerate (afps) collection.
+
 ## 4.0.5 (25/SEP/2020)
 * Supports auto collection of Screen Resolution of the Display connected to Chromecast. (Core SDK 4.0.18 and above)
 * Supports auto collection of Dropped Frames during playback. (Core SDK 4.0.18 and above)
