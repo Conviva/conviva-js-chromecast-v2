@@ -1,0 +1,24 @@
+{
+  "name": "@convivainc/conviva-js-chromecast-v2",
+  "version": "4.0.8",
+  "description": "Conviva Chromecast V2 module",
+  "main": "conviva-chromecast-v2module.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conviva/conviva-js-chromecast-v2.git"
+  },
+  "keywords": [
+    "Conviva",
+    "chromecast",
+    "video",
+    "module"
+  ],
+  "author": "Conviva Inc",
+  "bugs": {
+    "url": "https://github.com/Conviva/conviva-js-chromecast-v2/issues"
+  },
+  "homepage": "https://github.com/Conviva/conviva-js-chromecast-v2#readme",
+  "dependencies": {
+    "@convivainc/conviva-js-coresdk": "^4.4.3"
+  }
+}
