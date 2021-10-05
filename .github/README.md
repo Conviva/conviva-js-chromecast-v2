@@ -14,6 +14,12 @@ The Conviva JavaScript Chromecast V2 module module is built on top of <a href="h
 ```
 npm install @convivainc/conviva-js-chromecast-v2 --save
 ```
+  
+## Install via yarn 
+
+```
+yarn add @convivainc/conviva-js-chromecast-v2
+```
 
 ## Supported Framework Versions
 Receiver SDK version 2.0.0 with external Media Player Library version 1.0.0
