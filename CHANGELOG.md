@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 4.0.9 (14/Jun/2022)
+* Final last release for Chromecast V2
+* Fixes the issue of Bitrates not reported for some VOD contents. 
+
 ## 4.0.8 (27/JAN/2021)
 * Supports Average Framerate (afps) collection.
 
