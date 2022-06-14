@@ -1,7 +1,7 @@
 
 # Changelog
 
-## 4.0.9 (14/Jun/2022)
+## 4.0.10 (14/Jun/2022)
 * Final last release for Chromecast V2
 * Fixes the issue of Bitrates not reported for some VOD contents. 
 

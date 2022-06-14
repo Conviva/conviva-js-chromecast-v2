@@ -1,6 +1,6 @@
 {
   "name": "@convivainc/conviva-js-chromecast-v2",
-  "version": "4.0.9",
+  "version": "4.0.10",
   "description": "Conviva Chromecast V2 module",
   "main": "conviva-chromecast-v2module.js",
   "repository": {
